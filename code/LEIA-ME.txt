@@ -1,0 +1,71 @@
+═══════════════════════════════════════════════════════
+  CHECKLIST DE QUALIDADE DE SOFTWARE - GUIA DE USO
+═══════════════════════════════════════════════════════
+
+📦 INSTALAÇÃO
+─────────────────────────────────────────────────────
+
+NÃO PRECISA INSTALAR NADA! Basta abrir o arquivo:
+
+1. Extraia todos os arquivos na mesma pasta
+2. Dê um duplo clique no arquivo "index.html"
+3. O checklist abrirá no seu navegador padrão
+4. Pronto! Pode usar normalmente
+
+📂 ARQUIVOS INCLUÍDOS
+─────────────────────────────────────────────────────
+
+• index.html  - Página principal (abra este arquivo)
+• style.css   - Estilos e design
+• script.js   - Funcionalidades e lógica
+• LEIA-ME.txt - Este arquivo de instruções
+
+🎯 FUNCIONALIDADES
+─────────────────────────────────────────────────────
+
+✓ Marcar itens como Conforme/Não conforme/Pendente
+✓ Adicionar observações em cada item
+✓ Buscar itens por texto
+✓ Filtrar por status (todos/conformes/não conformes/pendentes)
+✓ Adicionar itens customizados
+✓ Visualizar progresso geral e por categoria
+✓ Gerar relatório completo
+✓ Exportar/Importar dados em JSON
+✓ Salvar automaticamente no navegador
+✓ Design responsivo (funciona em celular/tablet/desktop)
+
+💾 SALVAMENTO
+─────────────────────────────────────────────────────
+
+• Os dados são salvos AUTOMATICAMENTE no seu navegador
+• Funciona mesmo sem internet
+• Para fazer backup: use o botão "Exportar"
+• Para restaurar: use o botão "Importar"
+
+⚠️ IMPORTANTE
+─────────────────────────────────────────────────────
+
+• Não delete os cookies/dados do navegador ou perderá o checklist
+• Faça backup regular usando o botão "Exportar"
+• Use o mesmo navegador para acessar seus dados
+• Recomendado: Chrome, Firefox, Edge ou Safari atualizados
+
+🎨 PERSONALIZAÇÃO
+─────────────────────────────────────────────────────
+
+Para personalizar cores ou textos:
+1. Abra o arquivo "style.css" em um editor de texto
+2. Modifique as variáveis no início do arquivo
+3. Salve e atualize a página no navegador
+
+📧 SUPORTE
+─────────────────────────────────────────────────────
+
+Em caso de dúvidas ou problemas, verifique:
+• Se todos os arquivos estão na mesma pasta
+• Se está usando um navegador atualizado
+• Se JavaScript está habilitado no navegador
+
+═══════════════════════════════════════════════════════
+Desenvolvido com dedicação para garantir qualidade 🚀
+═══════════════════════════════════════════════════════
